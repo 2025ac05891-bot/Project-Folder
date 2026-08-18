@@ -16,10 +16,8 @@ Dataset used: Wisconsin Diagnostic Breast Cancer Dataset from UCI, available thr
 C. GitHub Repository Link:
 https://github.com/2025ac05891-bot/Project-Folder/
 
-Live Streamlit App Link
-
-Replace this placeholder after deploying on Streamlit Community Cloud:
-https://<your-app-name>.streamlit.app/
+Live Streamlit App Link:
+(https://glorious-pancake-96prg946657295wv.github.dev/)
 
 D. Models Used and Evaluation Metrics
 
